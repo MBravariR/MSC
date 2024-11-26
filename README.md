@@ -20,4 +20,4 @@ Código utilizado en [Magister en Simulación Computacional](https://www.postgra
 
 
 
-[Programación Avanzada](/Ramos/Segundo%20Semestre)
+[Programación Avanzada](/Ramos/Segundo%20Semestre/Programación%20Avanzada)
