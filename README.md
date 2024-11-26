@@ -13,7 +13,11 @@ Código utilizado en [Magister en Simulación Computacional](https://www.postgra
 
 1.  Ciencia e Ingeniería basados en Datos
 2.  Métodos Numéricos para EDPs
-3.  [Programación Avanzada](/Ramos/Semestre II/Programación Avanzada)
+3.  [Programación Avanzada](./Ramos/Semestre II/Programación Avanzada/)
 
 [Monumento a Rocky](/Imagenes/Rocky.jpeg) en Pensilvania. 
 ![Rocky](https://github.com/user-attachments/assets/f1939ba6-aa79-49f4-b9ad-4b025fedafaa)
+
+
+
+[Programación Avanzada](/Imagenes/Rocky.jpeg)
