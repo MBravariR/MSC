@@ -11,7 +11,7 @@ Código utilizado en [Magister en Simulación Computacional](https://www.postgra
 
 ### Segundo Semestre
 
-1.  [Ciencia e Ingeniería basados en Datos](/Ramos/Segundo%20Semestre/Ciencia%20e%20Ingeniería%20basados%20en%20Datos)
+1.  [Ciencia e Ingeniería basados en Datos](/Ramos/Segundo%20Semestre/Ciencia%20e%20Ingenier%C3%ADa%20basadas%20en%20Datos)
 2.  [Métodos Numéricos para EDPs](/Ramos/Segundo%20Semestre/M%C3%A9todos%20Num%C3%A9ricos%20para%20EDPs)
 3.  [Programación Avanzada](/Ramos/Segundo%20Semestre/Programación%20Avanzada)
 
