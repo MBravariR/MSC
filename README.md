@@ -20,4 +20,4 @@ Código utilizado en [Magister en Simulación Computacional](https://www.postgra
 
 
 
-[Programación Avanzada](/Imagenes/Rocky.jpeg)
+[Programación Avanzada](/Ramos)
