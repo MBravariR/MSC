@@ -17,5 +17,3 @@ Código utilizado en [Magister en Simulación Computacional](https://www.postgra
 
 [Monumento a Rocky](/Imagenes/Rocky.jpeg) en Pensilvania. 
 ![Rocky](https://github.com/user-attachments/assets/f1939ba6-aa79-49f4-b9ad-4b025fedafaa)
-
-Segunda
